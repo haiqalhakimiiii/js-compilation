@@ -1,0 +1,11 @@
+Hi, my name is Haiqal and i'm final year degree student.
+
+This repo is for my own self learn js in order to prepare for upcoming
+internship.
+
+I learn js on w3Schools website and also using free programming books at
+https://books.goalkicker.com/
+
+I started this on 25 April 2022.
+
+Wish me luck <3.
